@@ -33,10 +33,10 @@ Clone the repository:
    git clone https://github.com/fanzi19/Statistical-Calculator-in-C.git
 
 Compile the program:
-gcc -o stats_calculator stats_calculator.c -lm
+gcc main.c sourcefile.c -o basicstats
 
 Run the program:
-./stats_calculator your_data_file.txt
+./basicstats your_data_file.txt
 
 Replace your_data_file.txt with the path to your data file.
 
