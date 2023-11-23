@@ -10,7 +10,7 @@
  * and the unused capacity of the data array. The program ensures proper memory allocation and frees memory
  * before exiting.
  * 
- * Usage: ./executable_name <filename>
+ * Usage: ./basicstats <filename>
  *   - <filename>: Name of the file containing numerical data.
  */
 
